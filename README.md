@@ -1,1 +1,1 @@
-https://github.com/MaximSamorukov/rsschool-cv/blob/gh-pages/cv.md
+https://maximsamorukov.github.io/rsschool-cv/cv
