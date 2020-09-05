@@ -1,1 +1,1 @@
-https://github.com/MaximSamorukov/rsschool-cv/cv
+https://github.com/MaximSamorukov/rsschool-cv/cv.md
