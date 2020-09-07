@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+}
+
+.photo-content {
+    padding: 5px;
+    width: 350px
+}
+
+.item {
+  font-weight: bold;
+}
+
+.items {
+    font-weight: normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
